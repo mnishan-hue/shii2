@@ -1,6 +1,6 @@
 # For Shiyu
 
-A static cinematic experience based on `shiyu_FINAL_STABLE_ENVELOPE_CINEMATIC.html`, refined with warmer lighting, smoother text motion, a hinged envelope opening, tighter wording, and a shorter farewell. The three-second letter-ending hold is preserved; scrolling back up cancels it. Reduced-motion preferences retain readable timing. No playback menu or reading mode is added.
+A static cinematic experience. `index.html` is the original uploaded `shiyu_FINAL_STABLE_ENVELOPE_CINEMATIC.html`, unchanged; its CSS, JavaScript, wording, and scene behavior are preserved.
 
 ## Open locally
 
