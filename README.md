@@ -1,6 +1,6 @@
 # For Shiyu
 
-A static cinematic experience. `index.html` is the original uploaded `shiyu_full_experience_V3_CINEMATIC.html`, unchanged; its CSS, JavaScript, wording, and scene behavior are preserved.
+A static cinematic experience. `index.html` is the original uploaded `shiyu_FINAL_STABLE_ENVELOPE_CINEMATIC.html`, unchanged; its CSS, JavaScript, wording, and scene behavior are preserved.
 
 ## Open locally
 
@@ -12,12 +12,6 @@ Import `mnishan-hue/shii2` into Vercel and use `main` as the production branch. 
 
 See https://vercel.com/docs/builds/configure-a-build for static build settings.
 
-## Optional media
+## Media
 
-The HTML already references these relative, case-sensitive paths:
-
-- `assets/photos/moment-01.webp` through `assets/photos/moment-07.webp`
-- `assets/memories/award-video.mp4`
-- `assets/memories/award-poster.webp`
-
-The directories are tracked using `.gitkeep` files. The media files themselves are not included in the supplied HTML. Existing photo and video placeholders remain until matching files are added; missing media requests may return 404. Add the real files with these exact lowercase names to populate the existing slots. Do not rename JPEG files to `.webp`; convert them first.
+This version does not reference the previous optional `assets/` media paths. The existing asset directories are retained for future use.
