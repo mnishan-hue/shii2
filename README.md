@@ -1,6 +1,6 @@
 # For Shiyu
 
-A static cinematic experience. `index.html` is the original uploaded `shiyu_main_website_FINAL_ALL_CHANGES.html`, unchanged; its CSS, JavaScript, wording, and scene behavior are preserved.
+A static cinematic experience. `index.html` is the original uploaded `shiyu_main_website_FINAL_ALL_CHANGES.html`, with the previously configured gallery and closing music restored. The supplied wording and visual design are preserved.
 
 ## Open locally
 
@@ -15,3 +15,5 @@ See https://vercel.com/docs/builds/configure-a-build for static build settings.
 ## Media
 
 The supplied final HTML includes embedded media and does not reference the previous optional `assets/` paths. The existing asset directories are retained for future use.
+
+The first music track starts just before the gallery intro line. The second starts at the final thank-you lines in the letter, with a fallback when the ending is reached. Both tracks are embedded; if a browser blocks playback, a small tap-to-play recovery button appears.
