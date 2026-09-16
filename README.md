@@ -1,6 +1,6 @@
 # For Shiyu
 
-A static cinematic experience. `index.html` is the original uploaded `shiyu_main_website_FINAL_CINEMATIC_SUPPORT.html`, unchanged; its CSS, JavaScript, wording, and scene behavior are preserved.
+A static cinematic experience. `index.html` is the original uploaded `shiyu_main_website_FINAL_ALL_CHANGES.html`, unchanged; its CSS, JavaScript, wording, and scene behavior are preserved.
 
 ## Open locally
 
