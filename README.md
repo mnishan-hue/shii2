@@ -1,6 +1,6 @@
 # For Shiyu
 
-A static cinematic experience. `index.html` is the original uploaded `shiyu_FINAL_STABLE_ENVELOPE_CINEMATIC.html`, unchanged; its CSS, JavaScript, wording, and scene behavior are preserved.
+A static cinematic experience. `index.html` is the original uploaded `shiyu_main_website_FINAL_CINEMATIC_SUPPORT.html`, unchanged; its CSS, JavaScript, wording, and scene behavior are preserved.
 
 ## Open locally
 
@@ -14,4 +14,4 @@ See https://vercel.com/docs/builds/configure-a-build for static build settings.
 
 ## Media
 
-This version does not reference the previous optional `assets/` media paths. The existing asset directories are retained for future use.
+The supplied final HTML includes embedded media and does not reference the previous optional `assets/` paths. The existing asset directories are retained for future use.
