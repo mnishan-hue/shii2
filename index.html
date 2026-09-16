@@ -1323,9 +1323,10 @@ body{
 
     (async()=>{
       await wait(900); kicker?.classList.add('show');
-      await wait(2500); introLine?.classList.add('show');
-      await wait(3300);
+      await wait(2000);
       window.startShiyuGalleryMusic?.();
+      await wait(500); introLine?.classList.add('show');
+      await wait(3300);
       intro?.classList.add('hide');
       await wait(650); gallery?.classList.add('show');
       await wait(650); galleryNote?.classList.add('show');
